@@ -1,0 +1,122 @@
+C:\Users\Didar-Laptop\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\Didar-Laptop\PycharmProjects\pythonProject\Assigment3.py
+Question 1
+Postage for 12 is {4: 3, 5: 0}
+Postage for 13 is {4: 2, 5: 1}
+Postage for 14 is {4: 1, 5: 2}
+Postage for 15 is {4: 0, 5: 3}
+Postage for 16 is {4: 4, 5: 0}
+Postage for 17 is {4: 3, 5: 1}
+Postage for 18 is {4: 2, 5: 2}
+Postage for 19 is {4: 1, 5: 3}
+Postage for 20 is {4: 5, 5: 0}
+Postage for 21 is {4: 4, 5: 1}
+Postage for 22 is {4: 3, 5: 2}
+Postage for 23 is {4: 2, 5: 3}
+Postage for 24 is {4: 6, 5: 0}
+Postage for 25 is {4: 5, 5: 1}
+Postage for 26 is {4: 4, 5: 2}
+Postage for 27 is {4: 3, 5: 3}
+Postage for 28 is {4: 7, 5: 0}
+Postage for 29 is {4: 6, 5: 1}
+Postage for 30 is {4: 5, 5: 2}
+Postage for 31 is {4: 4, 5: 3}
+Postage for 32 is {4: 8, 5: 0}
+Postage for 33 is {4: 7, 5: 1}
+Postage for 34 is {4: 6, 5: 2}
+Postage for 35 is {4: 5, 5: 3}
+Postage for 36 is {4: 9, 5: 0}
+Postage for 37 is {4: 8, 5: 1}
+Postage for 38 is {4: 7, 5: 2}
+Postage for 39 is {4: 6, 5: 3}
+Postage for 40 is {4: 10, 5: 0}
+Postage for 41 is {4: 9, 5: 1}
+Postage for 42 is {4: 8, 5: 2}
+Postage for 43 is {4: 7, 5: 3}
+Postage for 44 is {4: 11, 5: 0}
+Postage for 45 is {4: 10, 5: 1}
+Postage for 46 is {4: 9, 5: 2}
+Postage for 47 is {4: 8, 5: 3}
+Postage for 48 is {4: 12, 5: 0}
+Postage for 49 is {4: 11, 5: 1}
+Postage for 50 is {4: 10, 5: 2}
+Postage for 51 is {4: 9, 5: 3}
+Postage for 52 is {4: 13, 5: 0}
+Postage for 53 is {4: 12, 5: 1}
+Postage for 54 is {4: 11, 5: 2}
+Postage for 55 is {4: 10, 5: 3}
+Postage for 56 is {4: 14, 5: 0}
+Postage for 57 is {4: 13, 5: 1}
+Postage for 58 is {4: 12, 5: 2}
+Postage for 59 is {4: 11, 5: 3}
+Postage for 60 is {4: 15, 5: 0}
+Postage for 61 is {4: 14, 5: 1}
+Postage for 62 is {4: 13, 5: 2}
+Postage for 63 is {4: 12, 5: 3}
+Postage for 64 is {4: 16, 5: 0}
+Postage for 65 is {4: 15, 5: 1}
+Postage for 66 is {4: 14, 5: 2}
+Postage for 67 is {4: 13, 5: 3}
+Postage for 68 is {4: 17, 5: 0}
+Postage for 69 is {4: 16, 5: 1}
+Postage for 70 is {4: 15, 5: 2}
+Postage for 71 is {4: 14, 5: 3}
+Postage for 72 is {4: 18, 5: 0}
+Postage for 73 is {4: 17, 5: 1}
+Postage for 74 is {4: 16, 5: 2}
+Postage for 75 is {4: 15, 5: 3}
+Postage for 76 is {4: 19, 5: 0}
+Postage for 77 is {4: 18, 5: 1}
+Postage for 78 is {4: 17, 5: 2}
+Postage for 79 is {4: 16, 5: 3}
+Postage for 80 is {4: 20, 5: 0}
+Postage for 81 is {4: 19, 5: 1}
+Postage for 82 is {4: 18, 5: 2}
+Postage for 83 is {4: 17, 5: 3}
+Postage for 84 is {4: 21, 5: 0}
+Postage for 85 is {4: 20, 5: 1}
+Postage for 86 is {4: 19, 5: 2}
+Postage for 87 is {4: 18, 5: 3}
+Postage for 88 is {4: 22, 5: 0}
+Postage for 89 is {4: 21, 5: 1}
+Postage for 90 is {4: 20, 5: 2}
+Postage for 91 is {4: 19, 5: 3}
+Postage for 92 is {4: 23, 5: 0}
+Postage for 93 is {4: 22, 5: 1}
+Postage for 94 is {4: 21, 5: 2}
+Postage for 95 is {4: 20, 5: 3}
+Postage for 96 is {4: 24, 5: 0}
+Postage for 97 is {4: 23, 5: 1}
+Postage for 98 is {4: 22, 5: 2}
+Postage for 99 is {4: 21, 5: 3}
+Postage for 100 is {4: 25, 5: 0}
+
+Question 2
+Fibonacci Numbers:
+2 Iterative 1 Recursive 1 Formula 1.0 MATCH
+3 Iterative 2 Recursive 2 Formula 2.0 MATCH
+4 Iterative 3 Recursive 3 Formula 3.0 MATCH
+5 Iterative 5 Recursive 5 Formula 5.0 MATCH
+6 Iterative 8 Recursive 8 Formula 8.0 MATCH
+7 Iterative 13 Recursive 13 Formula 13.0 MATCH
+8 Iterative 21 Recursive 21 Formula 21.0 MATCH
+9 Iterative 34 Recursive 34 Formula 34.0 MATCH
+10 Iterative 55 Recursive 55 Formula 55.0 MATCH
+
+Question 3
+GCD of: 88 92 math.gcd 4 Recursive 4 MATCH
+GCD of: 40 32 math.gcd 8 Recursive 8 MATCH
+GCD of: 47 4 math.gcd 1 Recursive 1 MATCH
+GCD of: 76 13 math.gcd 1 Recursive 1 MATCH
+GCD of: 25 23 math.gcd 1 Recursive 1 MATCH
+GCD of: 5 75 math.gcd 5 Recursive 5 MATCH
+GCD of: 75 61 math.gcd 1 Recursive 1 MATCH
+GCD of: 15 66 math.gcd 3 Recursive 3 MATCH
+GCD of: 96 3 math.gcd 3 Recursive 3 MATCH
+GCD of: 60 8 math.gcd 4 Recursive 4 MATCH
+
+Question 4
+{'a'} ['', 'a', 'aa', 'aaa', 'aaaa', 'aaaaa', 'aaaaaa', 'aaaaaaa', 'aaaaaaaa', 'aaaaaaaaa', 'aaaaaaaaaa']
+{'a', 'c', 'b'} ['', 'a', 'c', 'b', 'aa', 'ac', 'ab', 'ca', 'cc', 'cb', 'ba', 'bc', 'bb', 'aaa', 'aac', 'aab', 'aca', 'acc', 'acb', 'aba', 'abc', 'abb', 'caa', 'cac', 'cab', 'cca', 'ccc', 'ccb', 'cba', 'cbc', 'cbb', 'baa', 'bac', 'bab', 'bca', 'bcc', 'bcb', 'bba', 'bbc', 'bbb']
+
+
+Process finished with exit code 0

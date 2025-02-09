@@ -1,0 +1,15 @@
+C:\Users\Didar-Laptop\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\Didar-Laptop\PycharmProjects\pythonProject\Assignment4.py
+                            10        100        1000        10000        100000
+native_search             0.000000  1.994610   8.446693   65.495253   663.542986
+linear_search_iterative   0.000000  2.991676  28.845549  193.771601  1961.866140
+binary_search_recursive   0.000000  0.000000   2.011538    8.980513     6.078959
+binary_search_iterative   0.997066  0.997305   2.994061    2.992153     4.970551
+binary_search_better      1.994133  1.994371   3.192425    1.983404     3.090143
+binary_search_randomized  1.994848  2.992392  13.600826   11.996984    18.867493
+exponential_search        0.000000  2.004623   3.933907    7.689238    12.106180
+jump_search               0.997543  2.992153   6.995201   28.531551   119.760513
+fibonacci_search          0.000000  0.000000   3.537655    9.349823     4.159212
+interpolation_search      1.994848  0.997305   5.501032    3.495693     3.994703
+ternary_search            0.997305  3.917456   3.009558    4.978180     6.007671
+
+Process finished with exit code 0

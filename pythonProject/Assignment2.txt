@@ -1,0 +1,36 @@
+C:\Users\Didar-Laptop\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\Didar-Laptop\PycharmProjects\pythonProject\Assigment2.py
+Question 1
+Domain:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+CoDomain:  [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+f_identity partial total Injection (one-to-one)
+f_double partial Injection (one-to-one)
+f_half partial
+f_predecessor partial Injection (one-to-one)
+f_successor partial Injection (one-to-one)
+
+Question 2
+Set1 {'a', 'abc', 'ab', 'abcd'}
+Set2 {'dddd', 'ccc', 'a', 'bb'}
+set_union {'ccc', 'bb', 'a', 'dddd', 'ab', 'abc', 'abcd'}
+set_intersection {'a'}
+set_difference {'abc', 'ab', 'abcd'}
+set_symmetric_difference {'ccc', 'dddd', 'ab', 'abcd', 'abc', 'bb'}
+set_cartesian_product [('a', 'dddd'), ('a', 'ccc'), ('a', 'a'), ('a', 'bb'), ('abc', 'dddd'), ('abc', 'ccc'), ('abc', 'a'), ('abc', 'bb'), ('ab', 'dddd'), ('ab', 'ccc'), ('ab', 'a'), ('ab', 'bb'), ('abcd', 'dddd'), ('abcd', 'ccc'), ('abcd', 'a'), ('abcd', 'bb')]
+power set of set [(), ('a',), ('abc',), ('ab',), ('abcd',), ('a', 'abc'), ('a', 'ab'), ('a', 'abcd'), ('abc', 'ab'), ('abc', 'abcd'), ('ab', 'abcd'), ('a', 'abc', 'ab'), ('a', 'abc', 'abcd'), ('a', 'ab', 'abcd'), ('abc', 'ab', 'abcd'), ('a', 'abc', 'ab', 'abcd')]
+
+Question 3
+geometric series 15 15.0
+geometric series 4686 4686.0
+arithmetic series 16 16.0
+arithmetic series 133 133.0
+sum of natural numbers 21 21.0
+sum of natural numbers 45 45.0
+sum of square 91 91.0
+sum of square 285 285.0
+sum of cubes 2025 2025.0
+
+Question 4
+['0.010011', '0.101010', '0.111000', '0.000111', '0.111111', '0.111000'] new: 0.110001
+
+
+Process finished with exit code 0

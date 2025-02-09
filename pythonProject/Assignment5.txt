@@ -1,0 +1,278 @@
+C:\Users\Didar-Laptop\PycharmProjects\pythonProject\venv\Scripts\python.exe C:\Users\Didar-Laptop\PycharmProjects\pythonProject\Assignment5.py
+f1_fibonacci
+"0 if n == 0 else (1 if n == 1 else ff(f, n - 1) + ff(f, n - 2))"
+for n =  0 is 0
+for n =  1 is 1
+for n =  2 is 1
+for n =  3 is 2
+for n =  4 is 3
+for n =  5 is 5
+for n =  6 is 8
+for n =  7 is 13
+for n =  8 is 21
+for n =  9 is 34
+for n =  10 is 55
+for n =  11 is 89
+for n =  12 is 144
+for n =  13 is 233
+for n =  14 is 377
+for n =  15 is 610
+for n =  16 is 987
+for n =  17 is 1597
+for n =  18 is 2584
+for n =  19 is 4181
+for n =  20 is 6765
+for n =  21 is 10946
+for n =  22 is 17711
+for n =  23 is 28657
+for n =  24 is 46368
+for n =  25 is 75025
+for n =  26 is 121393
+for n =  27 is 196418
+for n =  28 is 317811
+for n =  29 is 514229
+
+f2_bitstrings
+"1 if n == 0 else (2 if n == 1 else (3 if n == 2 else ff(f, n - 1) + ff(f, n - 2)))"
+for n =  0 is 1
+for n =  1 is 2
+for n =  2 is 3
+for n =  3 is 5
+for n =  4 is 8
+for n =  5 is 13
+for n =  6 is 21
+for n =  7 is 34
+for n =  8 is 55
+for n =  9 is 89
+for n =  10 is 144
+for n =  11 is 233
+for n =  12 is 377
+for n =  13 is 610
+for n =  14 is 987
+for n =  15 is 1597
+for n =  16 is 2584
+for n =  17 is 4181
+for n =  18 is 6765
+for n =  19 is 10946
+for n =  20 is 17711
+for n =  21 is 28657
+for n =  22 is 46368
+for n =  23 is 75025
+for n =  24 is 121393
+for n =  25 is 196418
+for n =  26 is 317811
+for n =  27 is 514229
+for n =  28 is 832040
+for n =  29 is 1346269
+
+f3_linear_search
+"0 if n == 0 else 1 + ff(f, n - 1) + 1"
+for n =  0 is 0
+for n =  1 is 2
+for n =  2 is 4
+for n =  3 is 6
+for n =  4 is 8
+for n =  5 is 10
+for n =  6 is 12
+for n =  7 is 14
+for n =  8 is 16
+for n =  9 is 18
+for n =  10 is 20
+for n =  11 is 22
+for n =  12 is 24
+for n =  13 is 26
+for n =  14 is 28
+for n =  15 is 30
+for n =  16 is 32
+for n =  17 is 34
+for n =  18 is 36
+for n =  19 is 38
+for n =  20 is 40
+for n =  21 is 42
+for n =  22 is 44
+for n =  23 is 46
+for n =  24 is 48
+for n =  25 is 50
+for n =  26 is 52
+for n =  27 is 54
+for n =  28 is 56
+for n =  29 is 58
+
+f4_binarysearch
+"0 if n == 0 else ff(f, int(n / 2)) + 1"
+for n =  0 is 0
+for n =  1 is 1
+for n =  2 is 2
+for n =  3 is 2
+for n =  4 is 3
+for n =  5 is 3
+for n =  6 is 3
+for n =  7 is 3
+for n =  8 is 4
+for n =  9 is 4
+for n =  10 is 4
+for n =  11 is 4
+for n =  12 is 4
+for n =  13 is 4
+for n =  14 is 4
+for n =  15 is 4
+for n =  16 is 5
+for n =  17 is 5
+for n =  18 is 5
+for n =  19 is 5
+for n =  20 is 5
+for n =  21 is 5
+for n =  22 is 5
+for n =  23 is 5
+for n =  24 is 5
+for n =  25 is 5
+for n =  26 is 5
+for n =  27 is 5
+for n =  28 is 5
+for n =  29 is 5
+
+f5_mergesort
+"0 if n == 0 else 2 * ff(f, int(n / 2)) + 1"
+for n =  0 is 0
+for n =  1 is 1
+for n =  2 is 3
+for n =  3 is 3
+for n =  4 is 7
+for n =  5 is 7
+for n =  6 is 7
+for n =  7 is 7
+for n =  8 is 15
+for n =  9 is 15
+for n =  10 is 15
+for n =  11 is 15
+for n =  12 is 15
+for n =  13 is 15
+for n =  14 is 15
+for n =  15 is 15
+for n =  16 is 31
+for n =  17 is 31
+for n =  18 is 31
+for n =  19 is 31
+for n =  20 is 31
+for n =  21 is 31
+for n =  22 is 31
+for n =  23 is 31
+for n =  24 is 31
+for n =  25 is 31
+for n =  26 is 31
+for n =  27 is 31
+for n =  28 is 31
+for n =  29 is 31
+
+f6_bubblesort
+"0 if n == 0 else 2 * ff(f, n - 1) + (n - 1)"
+for n =  0 is 0
+for n =  1 is 0
+for n =  2 is 1
+for n =  3 is 4
+for n =  4 is 11
+for n =  5 is 26
+for n =  6 is 57
+for n =  7 is 120
+for n =  8 is 247
+for n =  9 is 502
+for n =  10 is 1013
+for n =  11 is 2036
+for n =  12 is 4083
+for n =  13 is 8178
+for n =  14 is 16369
+for n =  15 is 32752
+for n =  16 is 65519
+for n =  17 is 131054
+for n =  18 is 262125
+for n =  19 is 524268
+for n =  20 is 1048555
+for n =  21 is 2097130
+for n =  22 is 4194281
+for n =  23 is 8388584
+for n =  24 is 16777191
+for n =  25 is 33554406
+for n =  26 is 67108837
+for n =  27 is 134217700
+for n =  28 is 268435427
+for n =  29 is 536870882
+
+f7_slide
+"2 if n == 0 else (7 if n == 1 else ff(f, n - 1) + 2 * ff(f, n - 2))"
+for n =  0 is 2
+for n =  1 is 7
+for n =  2 is 11
+for n =  3 is 25
+for n =  4 is 47
+for n =  5 is 97
+for n =  6 is 191
+for n =  7 is 385
+for n =  8 is 767
+for n =  9 is 1537
+for n =  10 is 3071
+for n =  11 is 6145
+for n =  12 is 12287
+for n =  13 is 24577
+for n =  14 is 49151
+for n =  15 is 98305
+for n =  16 is 196607
+for n =  17 is 393217
+for n =  18 is 786431
+for n =  19 is 1572865
+for n =  20 is 3145727
+for n =  21 is 6291457
+for n =  22 is 12582911
+for n =  23 is 25165825
+for n =  24 is 50331647
+for n =  25 is 100663297
+for n =  26 is 201326591
+for n =  27 is 402653185
+for n =  28 is 805306367
+for n =  29 is 1610612737
+
+Master Theorem with a = 2 b = 2 c = 1 is T(n) = Θ(n^1 log n))
+Master Theorem with a = 1 b = 2 c = 0 is T(n) = Θ(n^0 log n))
+Master Theorem with a = 4 b = 2 c = 1 is T(n) = Θ(n^(log_2 4))
+Master Theorem with a = 3 b = 2 c = 1 is T(n) = Θ(n^(log_2 3))
+Master Theorem with a = 8 b = 2 c = 2 is T(n) = Θ(n^(log_2 8))
+Master Theorem with a = 7 b = 2 c = 2 is T(n) = Θ(n^(log_2 7))
+Master Theorem with a = 1 b = 2 c = 1 is T(n) = Θ(n^1))
+
+Fibonacci
+The recurrence is a(n) = 1a(n-1) + 1a(n-2)
+characteristic equation is r^2 - r - 1
+The roots are 1.618033988749895 -0.6180339887498949
+The coefficients are [ 0.4472136 -0.4472136]
+The closed-form formula is  a(n) = 0.4472135954999579 * 1.618033988749895^n + -0.4472135954999579 * -0.6180339887498949^n
+a4 recurrence 1
+a4 formula 0.9999999999999999
+
+Rossen ch. 8 slide 22
+The recurrence is a(n) = 1a(n-1) + 2a(n-2)
+characteristic equation is r^2 - r - 2
+The roots are 2.0 -1.0
+The coefficients are [ 3. -1.]
+The closed-form formula is  a(n) = 3.0 * 2.0^n + -1.0 * -1.0^n
+a4 recurrence 11
+a4 formula 11.0
+
+Rossen ch. 8 slide 26
+The recurrence is a(n) = 6a(n-1) + -9a(n-2)
+characteristic equation is r^2 - 6r - -9
+The roots are 3.0 3.0
+The coefficients are [1. 1.]
+The closed-form formula is  a(n) = 1.0 * 3.0^n + 1.0 *  n * 3.0^n
+a4 recurrence 27
+a4 formula 27.0
+
+CSCI 220 Exam Summer 2022
+The recurrence is a(n) = 6a(n-1) + -5a(n-2)
+characteristic equation is r^2 - 6r - -5
+The roots are 5.0 1.0
+The coefficients are [ 0.25 -0.25]
+The closed-form formula is  a(n) = 0.25 * 5.0^n + -0.25 * 1.0^n
+a4 recurrence 6
+a4 formula 6.0
+
+
+Process finished with exit code 0
